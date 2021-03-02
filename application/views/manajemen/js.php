@@ -1,0 +1,9 @@
+<script>
+    $(document).ready(function(){
+        $('#tb-menu').on('click',function(){
+            $('#tbh-menu').modal('show');
+        });
+    });
+</script>
+</body>
+</html>
